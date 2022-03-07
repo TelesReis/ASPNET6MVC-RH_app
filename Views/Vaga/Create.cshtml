@@ -1,0 +1,71 @@
+@model MvcMovie.Models.CreateVaga
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Vaga</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="vaga.nome" class="control-label"></label>
+                <input asp-for="vaga.nome" class="form-control" />
+                <span asp-validation-for="vaga.nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <select id="selectTec" class="form-control" asp-for="vagaTec.vagaTec.tecnologia_id" asp-items="@(new SelectList(Model.tecs, nameof(Tecnologia.tecnologia_id), nameof(Tecnologia.nome)))">
+                    <option>Please select one</option>
+                </select>
+                <input id="pesoAtual" step=".01" asp-for="vagaTec.vagaTec.peso" type="number" />
+                <button formaction="@Url.Action("AddTec")" mmethod="post" class="btn btn-primary">addTec</button>
+            </div>
+            <div class="form-group">
+                <table id="tabela" class="table" >
+                    <thead>
+                        <tr>
+                            <th>
+                                Tecnologias da Vaga
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.vagasTec != null)
+                        {
+                            @for (int i = 0; i < Model.vagasTec.Count(); i++)
+                            {
+                                @Html.HiddenFor(m => m.vagasTec[i].vagaTec.tecnologia_id, new { @class = "form-control", @readonly = true })
+                                <tr>
+                                    <td>
+                                        @Html.EditorFor(m => m.vagasTec[i].nome, new { @class = "form-control", @readonly = true })
+                                    </td>
+                                    <td>
+                                       <input type="number" step=".01" asp-for=" vagasTec[i].vagaTec.peso" readonly="true" />
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

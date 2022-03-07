@@ -1,0 +1,180 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcMovie
+build_property.RootNamespace = MvcMovie
+build_property.ProjectDir = C:\Users\r0dri\OneDrive\Documents\Estudo C#\AplicationRHVSCode\MvcMovie\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\r0dri\OneDrive\Documents\Estudo C#\AplicationRHVSCode\MvcMovie
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/CandidatoTecnologia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvVGVjbm9sb2dpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/CandidatoTecnologia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvVGVjbm9sb2dpYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/CandidatoTecnologia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvVGVjbm9sb2dpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/CandidatoTecnologia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvVGVjbm9sb2dpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/CandidatoTecnologia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvVGVjbm9sb2dpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Candidato/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Candidato/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Candidato/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Candidato/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Candidato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Candidato/TesteDrop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRvXFRlc3RlRHJvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Tecnologia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjbm9sb2dpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Tecnologia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjbm9sb2dpYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Tecnologia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjbm9sb2dpYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Tecnologia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjbm9sb2dpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Tecnologia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjbm9sb2dpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/VagaTecnologia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVRlY25vbG9naWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/VagaTecnologia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVRlY25vbG9naWFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/VagaTecnologia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVRlY25vbG9naWFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/VagaTecnologia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVRlY25vbG9naWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/VagaTecnologia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVRlY25vbG9naWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Vaga/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Vaga/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Vaga/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Vaga/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Vaga/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Vaga/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFnYVxSZWxhdG9yaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/r0dri/OneDrive/Documents/Estudo C\#/AplicationRHVSCode/MvcMovie/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4
